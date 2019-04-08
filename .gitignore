@@ -1,0 +1,5 @@
+# edi build artifacts
+
+artifacts/*
+main.retry
+
