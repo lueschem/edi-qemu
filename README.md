@@ -45,3 +45,8 @@ The container can be stopped using the following command:
 lxc stop -f qemu-buster
 ```
 
+## More Information
+
+- [QEMU bug report](https://bugs.launchpad.net/qemu/+bug/1823790)
+- [Systemd bug report](https://github.com/systemd/systemd/issues/11557)
+
