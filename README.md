@@ -39,7 +39,9 @@ It looks like systemd is stuck here:
 2837 getsockopt(3,1,31,274891889456,274887218756,274888927920) = -1 errno=34 (Numerical result out of range)
 ```
 
+The container can be stopped using the following command:
 
-
-
+``` bash
+lxc stop -f qemu-buster
+```
 
